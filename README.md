@@ -5,9 +5,6 @@ subtitle: "Professor: Ivan Ivanov"
 abstract: |
   This experiment aims to replicate a Spotify-like recommendation algorithm. Using a Neural Network trained on data obtained from the Spotify Web API, a model was created using Keras that could predict a user's preferences based on the musical characteristics of a track with an accuracy of 70%.
 
-
-nocite: |
-  @*
 ---
 
 <div id="introduction">
